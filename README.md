@@ -24,5 +24,9 @@ instructions on how to run the code in Linux:
 
 4.type "pipenv install jupyter"
 
-5.type "pipenv run jupyter notebook"
+5.pipenv install numpy,ntlk,sklearn,and every necessary module
+
+6.type "pipenv run jupyter notebook"
+
+7.open IMDB.ipynb in the jupyter notebook
 
